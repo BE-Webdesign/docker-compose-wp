@@ -1,8 +1,8 @@
-#Start Up
+# Start Up
 
 Copy `.env-example` to a new `.env` file and change `DOCKER_DEV_DOMAIN` to the
 domain you want, and add it to your hosts file for localhost. By default it will
-be `project.test`. Navigate to the root directory and run.
+be `project.test`. Navigate to the root directory and run:
 
 ```
 docker-compose up -d
