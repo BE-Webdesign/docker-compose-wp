@@ -1,0 +1,14 @@
+.env
+
+themes/twentynineteen/
+themes/twentytwenty/
+themes/twentytwentyone/
+
+plugins/akismet/
+plugins/hello.php
+
+node_modules/
+
+*.log
+*.sql
+*.sqlite
